@@ -1,0 +1,13 @@
+{
+  "endpoint": "https://api.admitad.com/products/website/",
+  "client_id": "6cb3c31d272a0f102ef5fb3d9a94b8",
+  "secret": "dab71c8efa79057de45cdb7cbbb922",
+  "auth_scope": "public_data products_for_website",
+  "api_params": [
+    "websiteId", 
+    "campaignId", 
+    "category", 
+    "priceFrom", 
+    "priceTo"
+  ]
+}
